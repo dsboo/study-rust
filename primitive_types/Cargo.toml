@@ -1,0 +1,6 @@
+[package]
+name = "primitive_types"
+version = "0.1.0"
+authors = ["ccame <ccame8539@gmail.com>"]
+
+[dependencies]
